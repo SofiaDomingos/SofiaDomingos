@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SofiaDomingos, passionated about technology, videogames and learning!
+- 👀 Regarding the uncertainties about career opportunities of the new academic training that was Criminology in 2008, I chose to enter in an IT training at FCUP, an area in which I had great interest and fascination. However, in 2010 I interrupted this training to graduate and master in Criminology from FDUP, where I developed a deep interest for scientific research and safety issues.
+- 💞️ Although I'm feeling fulfilled at an academic level, I understand along this path that my professional wish is to recover the IT area and, if possible, reconcile it with my training in the social sciences. To this end, I have sought to acquire and develop knowledge in the area of project management, scrum, functional tests and RGPD at self-taught level.
+- 📫 I am currently IT Recruiter at Aubay Porto, where I have the opportunity to contact daily with highly qualified professionals and where the challenges are constant. I'm very happy here! If you want to be happy too and be part of the family, please contact me at sdomingos@aubay.com 😃
+
